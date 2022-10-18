@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://184.73.4.0:8081/repository/nxs-release/</url>
+	      <url>http://3.86.186.242:8081/repository/nxs-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://184.73.4.0:8081/repository/nxs-snapshot/</url>
+	      <url>http://3.86.186.242:8081/repository/nxs-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
